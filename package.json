@@ -21,7 +21,7 @@
         "@types/react-dom": "16.9.5",
         "@types/react-router": "5.1.5",
         "@types/reactstrap": "8.4.2",
-        "apexcharts": "3.19.2",
+        "apexcharts": "3.24.0",
         "aws-sdk": "2.627.0",
         "axios": "^0.21.1",
         "bootstrap": "4.4.1",
